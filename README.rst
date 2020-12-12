@@ -1,6 +1,8 @@
 UEFI Firmware Parser
 ====================
 
+(this might be interesting since it allegedly supports Apple HW that has OSX 10.13+)
+
 .. image:: https://travis-ci.org/theopolis/uefi-firmware-parser.svg?branch=master
     :target: https://travis-ci.org/theopolis/uefi-firmware-parser
 
